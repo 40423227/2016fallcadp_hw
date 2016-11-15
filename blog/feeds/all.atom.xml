@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423228個人網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-11-11T12:00:00+08:00</updated><entry><title>20161111</title><link href="./20161111.html" rel="alternate"></link><updated>2016-11-11T12:00:00+08:00</updated><author><name>40423227</name></author><id>tag:,2016-11-11:./20161111.html</id><summary type="html">&lt;p&gt;&lt;a href="https://ethercalc.org/sde741ot61o4"&gt;自評系統&lt;/a&gt;&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>20161104</title><link href="./20161104.html" rel="alternate"></link><updated>2016-11-04T12:00:00+08:00</updated><author><name>40423227</name></author><id>tag:,2016-11-04:./20161104.html</id><summary type="html">&lt;p&gt;&lt;a href="http://pygroup-ag100.rhcloud.com"&gt;期中課程評量系統&lt;/a&gt;&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>20161028</title><link href="./20161028.html" rel="alternate"></link><updated>2016-10-28T12:00:00+08:00</updated><author><name>40423227</name></author><id>tag:,2016-10-28:./20161028.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;</summary><category term="上課內容"></category></entry><entry><title>20161021</title><link href="./20161021.html" rel="alternate"></link><updated>2016-10-21T12:00:00+08:00</updated><author><name>40423227</name></author><id>tag:,2016-10-21:./20161021.html</id><summary type="html">&lt;h2&gt;解決子模組在對應上的問題&lt;/h2&gt;</summary><category term="上課內容"></category></entry><entry><title>20161014</title><link href="./20161014.html" rel="alternate"></link><updated>2016-10-14T12:00:00+08:00</updated><author><name>40423227</name></author><id>tag:,2016-10-14:./20161014.html</id><summary type="html">&lt;p&gt;初步認識SolveSpace&lt;p&gt;</summary><category term="上課內容"></category></entry><entry><title>20161007</title><link href="./20161007.html" rel="alternate"></link><updated>2016-10-07T12:00:00+08:00</updated><author><name>40423227</name></author><id>tag:,2016-10-07:./20161007.html</id><summary type="html">&lt;p&gt;設定使用者資料,讓可攜程式更方便&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423227個人網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-11-11T12:00:00+08:00</updated><entry><title>20161111</title><link href="./20161111.html" rel="alternate"></link><updated>2016-11-11T12:00:00+08:00</updated><author><name>40423227</name></author><id>tag:,2016-11-11:./20161111.html</id><summary type="html">&lt;p&gt;&lt;a href="https://ethercalc.org/sde741ot61o4"&gt;自評系統&lt;/a&gt;&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>20161104</title><link href="./20161104.html" rel="alternate"></link><updated>2016-11-04T12:00:00+08:00</updated><author><name>40423227</name></author><id>tag:,2016-11-04:./20161104.html</id><summary type="html">&lt;p&gt;&lt;a href="http://pygroup-ag100.rhcloud.com"&gt;期中課程評量系統&lt;/a&gt;&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>20161028</title><link href="./20161028.html" rel="alternate"></link><updated>2016-10-28T12:00:00+08:00</updated><author><name>40423227</name></author><id>tag:,2016-10-28:./20161028.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;</summary><category term="上課內容"></category></entry><entry><title>20161021</title><link href="./20161021.html" rel="alternate"></link><updated>2016-10-21T12:00:00+08:00</updated><author><name>40423227</name></author><id>tag:,2016-10-21:./20161021.html</id><summary type="html">&lt;h2&gt;解決子模組在對應上的問題&lt;/h2&gt;</summary><category term="上課內容"></category></entry><entry><title>20161014</title><link href="./20161014.html" rel="alternate"></link><updated>2016-10-14T12:00:00+08:00</updated><author><name>40423227</name></author><id>tag:,2016-10-14:./20161014.html</id><summary type="html">&lt;p&gt;初步認識SolveSpace&lt;p&gt;</summary><category term="上課內容"></category></entry><entry><title>20161007</title><link href="./20161007.html" rel="alternate"></link><updated>2016-10-07T12:00:00+08:00</updated><author><name>40423227</name></author><id>tag:,2016-10-07:./20161007.html</id><summary type="html">&lt;p&gt;設定使用者資料,讓可攜程式更方便&lt;/p&gt;
 
 &lt;p&gt;用2016fallcadp_bg5的名稱,建立小組倉儲&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>20160930</title><link href="./20160930.html" rel="alternate"></link><updated>2016-09-30T12:00:00+08:00</updated><author><name>40423227</name></author><id>tag:,2016-09-30:./20160930.html</id><summary type="html">&lt;p&gt;複製網誌和簡報的設定檔到2016fallcadp_hw的倉儲&lt;/p&gt;
 
@@ -65,7 +65,7 @@ git pull origin gh-pages
 pit push origin gh-pages&lt;/p&gt;
 &lt;h2&gt;子模組&lt;/h2&gt;
 
-&lt;p&gt;用40423228的名稱把https://github.com/40423227/2016fallcadp_hw的倉儲加入為子模組&lt;/p&gt;
+&lt;p&gt;用40423227的名稱把https://github.com/40423227/2016fallcadp_hw的倉儲加入為子模組&lt;/p&gt;
 
 &lt;pre&gt;git submodule add -b gh-pages &lt;u&gt;子模組網址&lt;/u&gt; &lt;u&gt;子模組名稱&lt;/u&gt;
 (例如:git submodule add -b gh-pages https://github.com/40423227/2016fallcadp_hw "40423227")&lt;/pre&gt;
@@ -165,10 +165,10 @@ pit push origin gh-pages&lt;/p&gt;
 
 &lt;pre&gt;git rm &lt;u&gt;檔案名稱&lt;/u&gt;&lt;/pre&gt;
 
-&lt;p&gt;回到之前072e3af的版本資料&lt;/p&gt;
+&lt;p&gt;回到之前671e24a的版本資料&lt;/p&gt;
 
 &lt;pre&gt;git reset --hard &lt;u&gt;版本代碼&lt;/u&gt;
-(例如:git reset --hard 671e24a)&lt;/pre&gt;
+(例如:git reset --hard )&lt;/pre&gt;
 
 &lt;p&gt;直接刪除所有該檔案名稱的檔案&lt;/p&gt;
 
